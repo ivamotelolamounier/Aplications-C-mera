@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Application Camera</string>
+    <string name="img_selected_user">Imagem a ser selecionada pelo usuada</string>
+        <string name="select_image">SELECIONAR IMAGE</string>
+    <string name="btn_open_camera">ABRIR CÂMERA</string>
+</resources>
